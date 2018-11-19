@@ -1,3 +1,3 @@
 #!/usr/bin/bash
-STRING="Hello World"
+STRING="Hello Mahesh"
 echo $STRING
